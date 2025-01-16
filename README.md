@@ -6,4 +6,4 @@ social links template, this design is a challenge from Frontend mentor to test m
 
 that's the design: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
-link for preview: profilelinksredirect.netlify.app
+link for preview: https://profilelinksredirect.netlify.app
